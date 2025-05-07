@@ -65,7 +65,7 @@ Cuando un usuario pregunta algo sobre un producto, el sistema analiza la consult
 ## 📬 Contacto
 
 ¿Te late colaborar o tienes dudas?  
-Escríbeme: [velasquezemmanuel87@gmail.com](velasquezemmanuel87@gmail.com)
+Escríbeme: [velasquezemmanuel87@gmail.com] velasquezemmanuel87@gmail.com
 
 ---
 
