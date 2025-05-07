@@ -1,4 +1,4 @@
-# GhostFox-
+# GhostFox - Emaster
 GhostFox tienda en línea con un sistema de intercambio de criptomonedas por dinero digital real. Además, incluye una IA que recomienda los 5 mejores productos basados en preguntas de los usuarios, mejorando la experiencia de compra.
 
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/75c13283-1a3c-4b79-b8d0-2ebd2c68b597" />
